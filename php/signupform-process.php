@@ -7,7 +7,7 @@ if (empty($_POST["email"])) {
     $email = $_POST["email"];
 }
 
-$EmailTo = "yourname@domain.com";
+$EmailTo = "erick.amoedo@live.com";
 $Subject = "New sign up from Como landing page";
 
 // prepare email body text
